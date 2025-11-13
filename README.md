@@ -29,7 +29,7 @@ The process of video summarization entails two primary tasks: image captioning a
 12. The generated summaries are evaluated against human generated ground truth. The evaluation metrics used are recall and F1-score.
 
 ## Video Summaries (Output)
-https://drive.google.com/drive/folders/1eZ6foFICWWHc17HG7CyWajTthZsbqtEk?usp=drive_link
+https://drive.google.com/drive/folders/12giqFnGF5sVpOQov22pycBnU3NDdcxz_?usp=sharing
 
 ## Dataset
-https://drive.google.com/drive/folders/1evcIC95NbJWVBRFLEFjg7ooLpM0LDcze?usp=drive_link
+https://www.kaggle.com/datasets/mannahilmiftah/fyp-dataset-ego4d
